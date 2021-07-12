@@ -1,0 +1,20 @@
+.message_card{
+    width: fit-content;
+    margin:10px;
+    background-color: #e9e9eb !important;
+    border-radius: 10px;
+}
+.message_user{
+    width: fit-content;
+    margin:10px;
+    margin-left: auto;
+    text-align: left !important;
+    background-color: #8a85ff !important;
+    border-radius: 10px;
+}
+.time{
+    font-size:10px;
+    position: relative;
+    bottom:-20px;
+    margin:0px;
+}

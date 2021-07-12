@@ -1,0 +1,24 @@
+.Dashboard-chat-button-container {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .Dashboard-chat-button {
+    border-radius: 50px;
+    outline: none;
+    border: 1px solid #e6e5e8;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 10px 10px;
+    width: 170px;
+    transition: 0.3s;
+  }
+  
+  .Dashboard-chat-button:hover {
+    background-color: #8706f0;
+    opacity: 0.5;
+  }
+  
