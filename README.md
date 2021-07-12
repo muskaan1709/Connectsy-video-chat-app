@@ -50,7 +50,7 @@ Connectsy is a video chat application for direct calls and group calls.
     npm install
     
     /* Run */
-    npm run dev
+    npm start
   </code>
 </pre>
 
