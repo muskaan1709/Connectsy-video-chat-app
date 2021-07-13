@@ -25,7 +25,7 @@ This project is **deployed** at: https://connectsy-video-call-app.netlify.app/
 - Group Calls
 - Create Room
 - Video Streaming
-- Text chat
+- Real time chat functionality
 - Mute Video/Audio
 - Screen Sharing (Entire screen,Entire window,Chrome tab)
 
