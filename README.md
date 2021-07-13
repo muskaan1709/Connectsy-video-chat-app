@@ -2,6 +2,8 @@
 
 Connectsy is a video chat application for direct calls and group calls.
 
+This project is **deployed** at: https://connectsy-video-call-app.netlify.app/
+
 **Technologies Used**
 
 - WebRTC
@@ -11,6 +13,7 @@ Connectsy is a video chat application for direct calls and group calls.
 - Socket.io
 - Express.js
 - Node.js
+- Firebase Database
 
 **Contributors:** [Muskaan Gupta](https://github.com/muskaan1709)
 
@@ -18,12 +21,13 @@ Connectsy is a video chat application for direct calls and group calls.
 
 ## Features
 
-- Direct Calls
+- Direct Calls 
 - Group Calls
+- Create Room
 - Video Streaming
 - Text chat
 - Mute Video/Audio
-- Screen Sharing
+- Screen Sharing (Entire screen,Entire window,Chrome tab)
 
 ## Installation
 ### Clone
@@ -55,5 +59,5 @@ Connectsy is a video chat application for direct calls and group calls.
 </pre>
 
 
-
+Note : I am using a free stun server for exchanging ice candidates, so it can work unexpectedly after a certain period of time
 
